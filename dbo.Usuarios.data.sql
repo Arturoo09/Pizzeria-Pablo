@@ -1,0 +1,5 @@
+INSERT INTO [dbo].[Usuarios] ([id], [nombre], [direccion], [telefono], [nombre_usuario], [contrasena], [es_administrador]) VALUES (1, N'Arturo', N'arturo@alu.ucam.edu', N'333 222 111', N'Arturo', N'1234', 1)
+INSERT INTO [dbo].[Usuarios] ([id], [nombre], [direccion], [telefono], [nombre_usuario], [contrasena], [es_administrador]) VALUES (2, N'Juan Carlos ', N'juancarlos@alu.ucam.edu', N'111 222 333', N'JuanCarlos', N'1111', 1)
+INSERT INTO [dbo].[Usuarios] ([id], [nombre], [direccion], [telefono], [nombre_usuario], [contrasena], [es_administrador]) VALUES (3, N'Ivar Méndez', N'ivar@alu.ucam.edu', N'222 111 333', N'Ivar', N'1212', 1)
+INSERT INTO [dbo].[Usuarios] ([id], [nombre], [direccion], [telefono], [nombre_usuario], [contrasena], [es_administrador]) VALUES (4, N'Pablo', N'pablo@gmail.com', N'111 111 111', N'Pablo', N'pablo', 1)
+INSERT INTO [dbo].[Usuarios] ([id], [nombre], [direccion], [telefono], [nombre_usuario], [contrasena], [es_administrador]) VALUES (5, N'Pepe', N'pepe@alu.ucam.edu', N'222 222 222', N'Pepe', N'Pepe14', 1)
